@@ -1,3 +1,8 @@
+In this project, 3 Encoder-based LLMs have been fine-tuned and optimized using LoRA for hate speech detection using - Hate Speech and Offensive Language Dataset.
+
+Dataset Link: https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset
+
+
 Table 1: Encoder-based LLM performance metrics for hate speech detection
 
 | Encoder-based LLM | Accuracy | Precision | Recall  | F-1 Score | MCC   |
