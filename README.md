@@ -19,3 +19,8 @@ Table 2: Training time comparison
 | RoBERTa           | 107.985 seconds   | 3239.55 seconds     |
 | ALBERTa           | 119.09 seconds    | 3572.73 seconds     |
 
+
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
